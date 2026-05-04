@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=meysamkeshvari)
 
-## <p align="center"><a href="http://akilans.github.io/">Meysam Keshvari</a></p>
+## <p align="center"><a href="https://meysamkeshvari.github.io/">Meysam Keshvari</a></p>
 
 ### <p align="center">Golang Developer</p>
 
@@ -8,9 +8,6 @@
 
 Hi there, I'm a Software Engineering Mostly Golang Developer...
 
-### Certifications
-
-### Badges
 
 ### Github Data
 
